@@ -1,0 +1,23 @@
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.exe.config
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.exe
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.pdb
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.xml
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.vbprojAssemblyReference.cache
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.Resources.resources
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.vbproj.GenerateResource.cache
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.exe
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.xml
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.pdb
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.vbprojAssemblyReference.cache
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.LOGIN.resources
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.Resources.resources
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.vbproj.GenerateResource.cache
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.vbproj.CoreCompileInputs.cache
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.exe
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.xml
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.pdb
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.exe.config
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.exe
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.pdb
+C:\Users\Manuel Gomez\Desktop\SISTEMA DAVID CELL\SistemaDavidCell\SistemaDavidCell\SistemaDavidCell\bin\Debug\SistemaDavidCell.xml
+C:\Users\usuario\Desktop\SistemaDavidCell\SistemaDavidCell\obj\Debug\SistemaDavidCell.LOGIN.resources
